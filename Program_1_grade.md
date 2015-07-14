@@ -17,7 +17,7 @@
 80%
 
 ## Comments:
-- There was a wierd 'X' left on the end of my decrypted message.
+- There was a wierd 'X' left on the end of my decrypted message. The 'X' that splits the "L's" is ok, but not the other one.
     - Keyword: hello
     - message: hello world
 - Program crashed when I put special characters in the keyword.
