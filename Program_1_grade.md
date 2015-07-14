@@ -18,6 +18,8 @@
 
 ## Comments:
 - There was a wierd 'X' left on the end of my decrypted message.
+    - Keyword: hello
+    - message: hello world
 - Program crashed when I put special characters in the keyword.
 - No comment block at top of code ! That's any easy one!!
 
