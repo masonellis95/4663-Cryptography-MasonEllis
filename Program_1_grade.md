@@ -13,10 +13,11 @@
 | 9 | Decryption worked                                             | 40  |   35     |
 |   | Total:                                                        | 150 | 120 |
 
-Grade:
+## Grade:
 80%
 
+## Comments:
+- There was a wierd 'X' left on the end of my decrypted message.
+- Program crashed when I put special characters in the keyword.
+- No comment block at top of code ! That's any easy one!!
 
-Comments:
-
-There was a wierd 'X' left on the end of my decrypted message.
